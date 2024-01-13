@@ -1,0 +1,13 @@
+body{
+    background-color: #AF69EE;
+
+}
+h1{
+    font-weight: bold;
+    font-size: 50px;
+}
+#oats,#skill,#leche{
+    font-size: 20px;
+    color: aliceblue;
+}
+

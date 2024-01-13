@@ -1,0 +1,24 @@
+
+
+body{
+    background-color: #8B6C5C;
+    font: "Gill Sans";
+}
+
+.top-header,
+.intro,
+.mini {
+    text-align: center;
+}
+
+h1{
+    color: #3d251e;
+}
+#img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 30%;
+}
+

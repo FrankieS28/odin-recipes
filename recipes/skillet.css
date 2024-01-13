@@ -1,0 +1,38 @@
+
+body{
+    background-color: #F3EAAF;
+}
+
+h1{
+    color: #FFBF00;
+}
+.top-header,
+.ayummy,
+.intro {
+    text-align: center;
+}
+
+#img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 20%;
+}
+.li{
+    text-align: center;    
+ } 
+
+.list{
+   text-align: center;;
+   display: block;
+   border-radius: 25%;
+   margin-left: auto;
+   margin-right: auto;  
+}
+
+
+
+
+
+
